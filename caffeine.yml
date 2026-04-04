@@ -1,0 +1,15 @@
+name: caffeine
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - geopandas
+  - osmnx
+  - pyodbc
+  - shapely
+  - fiona
+  - pyproj
+  - pyogrio
+  - numpy
+  - pip
