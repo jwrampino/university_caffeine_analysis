@@ -8,7 +8,7 @@ university_caffeine_analysis/
 │   │   ├── IPEDS202324Tablesdoc.xlsx       # metadata
 │   │   └── ReadMe2023-24.docx              # documentation
 │   ├── tl_2020_us_zcta520/                 # Census ZCTA shapefile (ZIP approximations, 2020)
-│   └── university_enrollment_zipcode.csv   # processed IPEDS extract
+│   └── university_enrollment_address.csv   # processed IPEDS extract
 ├── .gitignore
 ├── caffeine.yml                            # conda environment
 ├── data_collection.ipynb                   # pipeline notebook

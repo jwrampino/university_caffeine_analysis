@@ -12,4 +12,6 @@ dependencies:
   - pyproj
   - pyogrio
   - numpy
+  - rapidfuzz
+  - ipykernel
   - pip
